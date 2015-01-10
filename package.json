@@ -1,7 +1,7 @@
 {
   "name": "flakes",
   "version": "1.0.1",
-  "description": "[http://getflakes.com](http://getflakes.com)",
+  "description": "http://getflakes.com",
   "main": "js/base.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
