@@ -1,6 +1,6 @@
 {
   "name": "flakes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "http://getflakes.com",
   "main": "js/base.js",
   "scripts": {
